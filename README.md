@@ -1,6 +1,6 @@
 # Best Python Web Scraping Libraries
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/) 
+[![Promo](https://github.com/bright-kr/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/) 
 
 이 종합 가이드에서는 주요 Python Webスクレイピング 라이브러리, 핵심 기능, 그리고 서로 간의 비교를 살펴봅니다.
 
@@ -110,7 +110,7 @@ Webクローリング 및 スクレイピング을 위한 올인원 프레임워
 
 이러한 라이브러리들은 Webスクレイピング에 매우 유용하지만, IP 차단 및 CAPTCHA와 같은 과제에 직면할 수 있습니다. 향상된 기능을 위해 [Bright Data solutions](https://brightdata.co.kr/) 사용을 고려해 보시기 바랍니다. 또한 특정 웹사이트를 スクレイピング하는 방법도 학습할 수 있습니다:
 
-- [**Amazon**](https://github.com/luminati-io/LinkedIn-Scraper)
-- [**LinkedIn**](https://github.com/luminati-io/LinkedIn-Scraper)
-- [**Google Maps**](https://github.com/luminati-io/Google-Maps-Scraper)
-- [**Google News**](https://github.com/luminati-io/Google-News-Scraper)
+- [**Amazon**](https://github.com/bright-kr/LinkedIn-Scraper)
+- [**LinkedIn**](https://github.com/bright-kr/LinkedIn-Scraper)
+- [**Google Maps**](https://github.com/bright-kr/Google-Maps-Scraper)
+- [**Google News**](https://github.com/bright-kr/Google-News-Scraper)
