@@ -1,98 +1,98 @@
 # Best Python Web Scraping Libraries
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/) 
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/) 
 
-Learn about the top Python web scraping libraries, their key features, and how they compare in this comprehensive guide.
+이 종합 가이드에서는 주요 Python Webスクレイピング 라이브러리, 핵심 기능, 그리고 서로 간의 비교를 살펴봅니다.
 
 ## What Is a Python Web Scraping Library?
 
-A Python web scraping library helps extract data from web pages, supporting steps like sending HTTP requests, [parsing HTML](https://brightdata.com/blog/web-data/best-python-html-parsers), and executing JavaScript. Categories include [HTTP clients](https://brightdata.com/blog/web-data/best-python-http-clients), all-in-one frameworks, and [headless browser tools](https://brightdata.com/blog/web-data/best-headless-browsers).
+Python Webスクレイピング 라이브러리는 웹 페이지에서 데이터를 추출하는 데 도움을 주며, HTTP リクエスト 전송, [HTML 파싱](https://brightdata.co.kr/blog/web-data/best-python-html-parsers), JavaScript 실행과 같은 단계를 지원합니다. 범주에는 [HTTP 클라이언트](https://brightdata.co.kr/blog/web-data/best-python-http-clients), 올인원 프레임워크, 그리고 [헤드리스 브라우저 도구](https://brightdata.co.kr/blog/web-data/best-headless-browsers)가 포함됩니다.
 
 ## Elements to Consider
 
-- **Goal:** Intended use of the library.
-- **Features:** Core functionalities.
-- **Category:** Type of library.
-- **GitHub stars:** Community interest.
-- **Weekly downloads:** Popularity.
-- **Release frequency:** Update regularity.
-- **Pros/Cons:** Strengths and limitations.
+- **Goal:** 라이브러리의 의도된 사용 목적입니다.
+- **Features:** 핵심 기능입니다.
+- **Category:** 라이브러리 유형입니다.
+- **GitHub stars:** 커뮤니티 관심도입니다.
+- **Weekly downloads:** 인기도입니다.
+- **Release frequency:** 업데이트 정기성입니다.
+- **Pros/Cons:** 강점과 한계입니다.
 
 ## Top 7 Python Libraries for Web Scraping
 
 ### 1. [Selenium](https://www.selenium.dev/)
 
-A browser automation library ideal for dynamic content.
+동적 콘텐츠에 이상적인 브라우저 자동화 라이브러리입니다.
 
-- **Features:** Supports multiple browsers, headless mode, JavaScript execution.
+- **Features:** 여러 브라우저 지원, 헤드리스 모드, JavaScript 실행을 지원합니다.
 - **Category:** Browser automation
 - **GitHub stars:** ~31.2k
 - **Weekly downloads:** ~4.7M
 
-> 💡 Learn more about [**web scraping with Selenium**](https://brightdata.com/blog/how-tos/using-selenium-for-web-scraping).
+> 💡 [**Selenium을 사용한 web scraping**](https://brightdata.co.kr/blog/how-tos/using-selenium-for-web-scraping)에 대해 더 알아보세요.
 
 ### 2. [Requests](https://pypi.org/project/requests/)
 
-An HTTP client for sending requests and handling responses.
+リクエスト를 전송하고 レスポンス를 처리하기 위한 HTTP 클라이언트입니다.
 
-- **Features:** Supports all HTTP methods, cookies, headers.
+- **Features:** 모든 HTTP 메서드, Cookie, ヘッダー를 지원합니다.
 - **Category:** HTTP client
 - **GitHub stars:** ~52.3k
 - **Weekly downloads:** ~128.3M
 
-> 💡 Learn more about [**web scraping with Requests**](https://brightdata.com/blog/web-data/python-requests-guide).
+> 💡 [**Requests를 사용한 web scraping**](https://brightdata.co.kr/blog/web-data/python-requests-guide)에 대해 더 알아보세요.
 
 ### 3. [Beautiful Soup](https://pypi.org/project/beautifulsoup4/)
 
-Parses HTML and XML documents.
+HTML 및 XML 문서를 파싱합니다.
 
-- **Features:** Supports various parsers, can handle malformed HTML.
+- **Features:** 다양한 파서 지원, 잘못된 형식의 HTML도 처리할 수 있습니다.
 - **Category:** HTML parser
 - **Weekly downloads:** ~29M
 
-> 💡 Learn more about [**web scraping with Beautiful Soup**](https://brightdata.com/blog/how-tos/beautiful-soup-web-scraping).
+> 💡 [**Beautiful Soup을 사용한 web scraping**](https://brightdata.co.kr/blog/how-tos/beautiful-soup-web-scraping)에 대해 더 알아보세요.
 
 ### 4. [SeleniumBase](https://seleniumbase.com/)
 
-An enhanced Selenium version for advanced automation.
+고급 자동화를 위한 향상된 Selenium 버전입니다.
 
-- **Features:** Smart-waiting, proxy support, CAPTCHA-bypass.
+- **Features:** 스마트 대기, プロキシ 지원, CAPTCHA 우회 기능을 제공합니다.
 - **Category:** Browser automation
 - **GitHub stars:** ~8.8k
 - **Weekly downloads:** ~200k
 
-> 💡 Learn more about [**web scraping with SeleniumBase**](https://brightdata.com/blog/web-data/web-scraping-with-seleniumbase).
+> 💡 [**SeleniumBase를 사용한 web scraping**](https://brightdata.co.kr/blog/web-data/web-scraping-with-seleniumbase)에 대해 더 알아보세요.
 
 ### 5. [curl_cffi](https://github.com/lexiforest/curl_cffi)
 
-An HTTP client mimicking browser behavior.
+브라우저 동작을 모방하는 HTTP 클라이언트입니다.
 
-- **Features:** TLS fingerprint impersonation, HTTP/2 support.
+- **Features:** TLS 핑거프린트 위장, HTTP/2 지원을 제공합니다.
 - **Category:** HTTP client
 - **GitHub stars:** ~2.8k
 - **Weekly downloads:** ~310k
 
 ### 6. [Playwright](https://playwright.dev/)
 
-A versatile headless browser library.
+다재다능한 헤드리스 브라우저 라이브러리입니다.
 
-- **Features:** Cross-browser support, automatic waiting, stealth mode.
+- **Features:** 크로스 브라우저 지원, 자동 대기, 스텔스 모드를 제공합니다.
 - **Category:** Browser automation
 - **GitHub stars:** ~12.2k
 - **Weekly downloads:** ~1.2M
 
-> 💡 Learn more about [**web scraping with Playwright**](https://brightdata.com/blog/how-tos/playwright-web-scraping).
+> 💡 [**Playwright를 사용한 web scraping**](https://brightdata.co.kr/blog/how-tos/playwright-web-scraping)에 대해 더 알아보세요.
 
 ### 7. [Scrapy](https://scrapy.org/)
 
-An all-in-one framework for web crawling and scraping.
+Webクローリング 및 スクレイピング을 위한 올인원 프레임워크입니다.
 
-- **Features:** HTTP requests, HTML parsing, data storage.
+- **Features:** HTTP リクエスト, HTML 파싱, 데이터 저장을 제공합니다.
 - **Category:** Scraping framework
 - **GitHub stars:** ~53.7k
 - **Weekly downloads:** ~304k
 
-> 💡 Learn more about [**web scraping with Scrapy**](https://brightdata.com/blog/how-tos/web-scraping-with-scrapy).
+> 💡 [**Scrapy를 사용한 web scraping**](https://brightdata.co.kr/blog/how-tos/web-scraping-with-scrapy)에 대해 더 알아보세요.
 
 ## Summary Table
 
@@ -108,7 +108,7 @@ An all-in-one framework for web crawling and scraping.
 
 ## Conclusion
 
-These libraries are great for web scraping but face challenges like IP bans and CAPTCHAs. Consider using [Bright Data solutions](https://brightdata.com/) for enhanced capabilities. You can also learn how to scrape specific websites:
+이러한 라이브러리들은 Webスクレイピング에 매우 유용하지만, IP 차단 및 CAPTCHA와 같은 과제에 직면할 수 있습니다. 향상된 기능을 위해 [Bright Data solutions](https://brightdata.co.kr/) 사용을 고려해 보시기 바랍니다. 또한 특정 웹사이트를 スクレイピング하는 방법도 학습할 수 있습니다:
 
 - [**Amazon**](https://github.com/luminati-io/LinkedIn-Scraper)
 - [**LinkedIn**](https://github.com/luminati-io/LinkedIn-Scraper)
